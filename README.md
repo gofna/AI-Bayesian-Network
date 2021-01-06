@@ -1,1 +1,1 @@
-# Bayesian-Network---AI
+# Bayesian-Network
